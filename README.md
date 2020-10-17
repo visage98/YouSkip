@@ -1,6 +1,6 @@
 # YouSkip
 A chrome extension that lets you skip ads and get rid of ad banners on youtube.
-## Installation :
+## Steps for installation :
 1. Clone the repository or download and extract the zip file.
 2. Goto the following address in your chrome browser :
    ##### chrome://extensions
